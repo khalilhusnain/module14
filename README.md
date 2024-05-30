@@ -30,8 +30,8 @@ npm run seed
 ```
 ## Screenshot
 Here is a screenshot of the application:
-(./images/loginPage.png)
-(./images/homePage.png)
+![login](./images/loginPage.png)
+![home](./images/homePage.png)
 
 ## License
 This project is licensed under the ISC license.
