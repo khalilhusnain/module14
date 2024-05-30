@@ -32,6 +32,7 @@ npm run seed
 Here is a screenshot of the application:
 ![login](./images/loginPage.png)
 
+##
 
 ![home](./images/homePage.png)
 
